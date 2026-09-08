@@ -1,4 +1,0 @@
-numpy
-pandas
-langchain
-langgraph
